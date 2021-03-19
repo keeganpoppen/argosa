@@ -1,0 +1,13 @@
+body {
+  /*background-color: #ced7d8;*/
+  font-family: Poppins;
+}
+
+img.logo-hero {
+  /*width: 445px;*/
+  width: 279px;
+}
+
+.indented {
+  margin-left: 1em;
+}
